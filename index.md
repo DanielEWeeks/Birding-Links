@@ -19,7 +19,7 @@
 
 ## Acoustic Localization of Terrestrial Wildlife: Current Practices and Future Opportunities
 
-[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6216]https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6216
+[https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6216](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6216)
 
 ## AudioMoth Guide
 
