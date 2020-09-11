@@ -1,5 +1,19 @@
 # Birding Nature links
 
+## Dan Weeks' Flickr photography site
+
+[https://www.flickr.com/photos/dweeks/](https://www.flickr.com/photos/dweeks/)
+
+## Photographic Life List
+
+A work in progress
+
+[https://www.danieleweeks.com/photography/life_list_index.html](https://www.danieleweeks.com/photography/life_list_index.html)
+
+## Birder sayings
+
+[https://www.danieleweeks.com/Birder_Sayings.html](https://www.danieleweeks.com/Birder_Sayings.html)
+
 ## eBird at the Cornell Lab of Ornithology
 
 [https://ebird.org/home](https://ebird.org/home)
