@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Birding Nature links
 
-You can use the [editor on GitHub](https://github.com/DanielEWeeks/Birding-Links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## eBird
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://ebird.org/home
 
-### Markdown
+## Migration forecast
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://birdcast.info/
 
-```markdown
-Syntax highlighted code block
+## Animated migration map - Barn Swallow
 
-# Header 1
-## Header 2
-### Header 3
+https://ebird.org/science/status-and-trends/barswa/abundance-map-weekly
 
-- Bulleted
-- List
+## iNaturalist Squaw Valley Woodlands
 
-1. Numbered
-2. List
+https://www.inaturalist.org/projects/squaw-valley-woodlands
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Acoustic Localization of Terrestrial Wildlife: Current Practices and Future Opportunities
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6216
 
-### Jekyll Themes
+## AudioMoth Guide
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielEWeeks/Birding-Links/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://github.com/rhine3/audiomoth-guide/blob/master/guide.md
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Three Rivers Birding Club
+
+https://www.3rbc.org/
+
+## University of Pittsburgh Birding and Ornithology Club
+
+https://pitt2.campuslabs.com/engage/organization/birdingclub
